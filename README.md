@@ -33,15 +33,9 @@ To install and run the application on your local machine, follow these steps:
 -   React Router
 -   Bootstrap
 
-## Contributing
+## Authors 
 
-If you'd like to contribute to the development of this application, please follow these guidelines:
-
-1.  Fork the repository.
-2.  Create a new branch for your changes.
-3.  Make your changes and commit them to your branch.
-4.  Push your branch to your forked repository.
-5.  Create a pull request to the original repository with a detailed description of your changes.
+Yours Truly.
 
 ## License
 
