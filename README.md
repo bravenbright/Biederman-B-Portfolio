@@ -31,7 +31,7 @@ To install and run the application on your local machine, follow these steps:
 
 -   React
 -   React Router
--   Bootstrap
+-   Material UI
 
 ## Authors 
 
