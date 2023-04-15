@@ -13,9 +13,9 @@ This is a single-page application portfolio for a web developer, built using Rea
 7.  When users are presented with the Portfolio section, they see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository.
 8.  When users are presented with the Contact section, they see a contact form with fields for a name, an email address, and a message.
 9.  When users move their cursor out of one of the form fields without entering text, they receive a notification that this field is required.
-10.  When users enter text into the email address field, they receive a notification if they have entered an invalid email address.
-11.  When users are presented with the Resume section, they see a link to a downloadable resume and a list of the developer’s proficiencies.
-12.  When users view the footer, they are presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter).
+10. When users enter text into the email address field, they receive a notification if they have entered an invalid email address.
+11. When users are presented with the Resume section, they see a link to a downloadable resume and a list of the developer’s proficiencies.
+12. When users view the footer, they are presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter).
 
 ## Installation
 
@@ -29,11 +29,11 @@ To install and run the application on your local machine, follow these steps:
 
 ## Technologies Used
 
--   React
--   React Router
--   Material UI
+- React
+- React Router
+- Material UI
 
-## Authors 
+## Authors
 
 Yours Truly.
 
